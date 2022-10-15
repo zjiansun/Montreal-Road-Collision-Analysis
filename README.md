@@ -1,4 +1,5 @@
 # Montreal Road Collision Analysis
+<b>!Suggestions and PR are always welcome!</b>
 
 ## Background
 I've always been fascinated by data science, more specifically, by how it allows us to feed some algorithm a bunch of information, then write some code to extract concrete, useful facts to help us enlarge our perspective and make better decisions.
